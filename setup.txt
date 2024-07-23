@@ -1,0 +1,4 @@
+torch
+PIL
+cv2
+albumentations
